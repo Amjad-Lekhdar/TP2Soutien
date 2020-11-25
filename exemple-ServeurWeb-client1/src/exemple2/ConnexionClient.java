@@ -78,4 +78,6 @@ public class ConnexionClient {
 			e.printStackTrace();
 		}
 	}
+	
+	
 }

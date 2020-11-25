@@ -33,7 +33,7 @@ public class HTTPServer {
 		}
 
 		catch (IOException e) {
-			System.out.print("Erreur Client" + e.getMessage());
+			System.out.print("Erreur Client " + e.getMessage());
 		} finally {
 			try {
 				if (socketServeur != null)
